@@ -1,0 +1,17 @@
+{
+	"name": "react-native-qrcode-svg",
+	"license": "MIT",
+	"tags": [
+		"react"
+	],
+	"classPath": "src",
+	"contributors": [
+		"kevinresol"
+	],
+	"releasenote": "Initial release",
+	"version": "0.1.0",
+	"url": "https://github.com/haxe-react/react-native-qrcode-svg",
+	"dependencies": {
+		"react-native": ""
+	}
+  }
